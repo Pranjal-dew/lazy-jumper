@@ -1,6 +1,5 @@
-# Personal Project
+# lazy-jumper.github.io
 
-## Lazy Jumper
+#Personal Project
 
-
-[Live Project](https://pranjal-dew.github.io/lazy-jumper/)
+##Lazy Jumper
