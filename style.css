@@ -1,4 +1,4 @@
-/* Set height to 100% for body and html to enable the background image to cover the whole page: */
+  /* Set height to 100% for body and html to enable the background image to cover the whole page: */
 body, html {
   height: 100%
 }
@@ -17,7 +17,7 @@ body, html {
   /* Add a white text color to all elements inside the .bgimg container */
   color: white;
   /* Add a font */
-  font-family: "Courier New", Courier, monospace;
+  font-family: 'Open Sans', sans-serif;
   /* Set the font-size to 25 pixels */
   font-size: 25px;
 }
